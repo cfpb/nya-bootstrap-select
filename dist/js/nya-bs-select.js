@@ -415,7 +415,6 @@ nyaBsSelect.directive('nyaBsSelect', ['$parse', '$document', '$timeout', '$compi
   var DROPDOWN_TOGGLE = '<button class="a-btn a-btn-default dropdown-toggle" type="button">' +
     '<span class="pull-left filter-option"></span>' +
     '<span class="pull-left special-title"></span>' +
-    '&nbsp;' +
     '<span class="caret"></span>' +
     '</button>';
 
